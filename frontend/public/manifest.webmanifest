@@ -1,0 +1,14 @@
+{
+  "name": "KPRA Smart Attendance Lite",
+  "short_name": "KPRA Attendance",
+  "start_url": "/home",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0B1F3A",
+  "theme_color": "#0B1F3A",
+  "description": "Remote attendance for authorized KPRA managers.",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
